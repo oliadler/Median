@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bc18150-01df-434e-94e0-5ab0bf26c178" name="Changes" comment="">
+    <list default="true" id="8bc18150-01df-434e-94e0-5ab0bf26c178" name="Changes" comment="Kommentare hinzugefügt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Median.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Median.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MedianTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MedianTest.java" afterDir="false" />
@@ -44,8 +44,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667492575954</updated>
-      <workItem from="1667492577173" duration="2292000" />
+      <workItem from="1667492577173" duration="4905000" />
     </task>
+    <task id="LOCAL-00001" summary="Kommentare hinzugefügt">
+      <created>1667726865949</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667726865949</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,5 +72,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Kommentare hinzugefügt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kommentare hinzugefügt" />
   </component>
 </project>

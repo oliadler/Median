@@ -3,7 +3,7 @@ public class Median {
 
     public int median(int[] array){
 
-        // Überprüfung, ob das array eventuell leer ist.
+        // Ueberpruefung, ob das array eventuell leer ist.
 
         if (array == null || array.length == 0)
         {
