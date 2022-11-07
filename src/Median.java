@@ -13,20 +13,18 @@ public class Median {
         // array wird sortiert.
         java.util.Arrays.sort(array);
         // array Länge wird in eine Variable geschrieben.
-        double arrayLength = array.length;
-        double medianIndex;
+        int arrayLength = array.length;
+
 
         if (array.length % 2 != 0)
         {
             // Formel zur Berechnung des Medians bei einer ungeraden Anzahl von Elementen im Array
-            return (array.length +1 )/2;
+            return array[(array.length)/2];
         }
         else
         {   // Formel zur Berechnung des Medians bei einer geraden Anzahl von Elementen im Array
-            medianIndex =((( arrayLength/2)+(arrayLength/2)+1))/2;
+            return (array[(arrayLength/2)]+ array[((arrayLength/2)-1)])/2;
         }
-
-        return (int) medianIndex;
     }
 
 
