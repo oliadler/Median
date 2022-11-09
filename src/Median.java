@@ -8,6 +8,7 @@ public class Median {
         if (array == null || array.length == 0)
         {
             System.out.println("Das Array ist leer.");
+            System.exit(0);
         }
 
         // array wird sortiert.

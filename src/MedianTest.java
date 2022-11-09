@@ -12,6 +12,7 @@ public class MedianTest {
         System.out.println("Der Median für Array1 lautet: "+ median);
 
         // Testdurchlauf mit array1
+
         int [] array2 = {42,7,543,77,87,876,143};
         int median2 = medianClass.median(array2);
         System.out.println("Der Median für Array2 lautet: "+median2);
